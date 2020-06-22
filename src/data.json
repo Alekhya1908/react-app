@@ -1,0 +1,20 @@
+{
+    "profile":[
+        {
+    "basics":{
+        "name":"Alekhya",
+        "role":"developer",
+        "phone":"8978710133",
+        "email":"alekhya.mandala99@gmail.com"
+    }
+    },
+    {
+    "basics":{
+        "name":"Surya",
+        "role":"DB developer",
+        "phone":"8888899999",
+        "email":"surya1234@gmail.com"
+    }}
+
+]
+}

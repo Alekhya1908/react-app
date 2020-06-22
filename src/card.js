@@ -5,7 +5,7 @@ import data from './data.json';
 import './css/bootstrap.min.css';
 import {BrowserRouter,Route,Link} from 'react-router-dom';
 import Resume from'./resume';
-function App() {
+function Spp() {
   return (
     <BrowserRouter>
     <Route exact path='/' component={Home}/>
@@ -20,7 +20,7 @@ function App() {
      <div className="row justify-content-center">
        {profiles.map((values,index)=>(
          <div className="col-lg-4 col-md-4 col-sm-10 mt-1" key={index}>
-      <div className="card bg-secondary">
+      <div className="card ">
           <div  className="card-body text-center">
            <img src={profilepic} alt="pic" style={{width:"30%"}}/>
             <h2>{values.basics.name}</h2>
@@ -41,4 +41,4 @@ function App() {
  
  }
 
-export default App;
+export default Spp;

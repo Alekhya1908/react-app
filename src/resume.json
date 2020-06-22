@@ -1,0 +1,58 @@
+{
+    "profile":[
+        {
+    "basics":{
+        "name":"Alekhya",
+        "role":"developer",
+        "phone":"8978710133",
+        "email":"alekhya.mandala99@gmail.com"
+    },
+    "carrer":"i want to explore my entire knownledge to give better output ",
+    "edu":{
+        "coll1":"GIER",
+        "coll2":"CHAITANYA",
+        "coll3":"Bhashyam",
+        "per1":"95",
+        "per2":"90",
+        "per3":"88"
+    },
+    "skills":{
+        "s1":"oracle",
+        "s2":"sql",
+        "s3":"c",
+        "s4":"c++"
+    },
+    "Hobbies":{
+        "h1":"playing carroms",
+        "h2":"paper crafting"
+    }
+    },
+    {
+    "basics":{
+        "name":"Surya",
+        "role":"DB developer",
+        "phone":"8888899999",
+        "email":"surya1234@gmail.com"
+   },
+    "carrer":"i want to explore my entire knownledge to give better output ",
+    "edu":{
+        "coll1":"GIER",
+        "coll2":"CHAITANYA",
+        "coll3":"Bhashyam",
+        "per1":"95",
+        "per2":"90",
+        "per3":"88"
+    },
+    "skills":{
+        "s1":"oracle",
+        "s2":"sql",
+        "s3":"c",
+        "s4":"c++"
+    },
+    "Hobbies":{
+        "h1":"playing carroms",
+        "h2":"paper crafting"
+    }
+}
+]
+}
